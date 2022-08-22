@@ -1,4 +1,4 @@
-# Simulations-of-the-FIFA-World-Cup-winner
+# Simulations-of-the-FIFA-World-Cup
 
 In Football’s World Cup, the knockout round consists of 16 teams. In each round, each team plays another team and the losing teams are eliminated. When only two teams remain, the winner of the final match is the champion.
 
